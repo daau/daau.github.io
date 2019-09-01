@@ -1,0 +1,32 @@
+h1, h2, p {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 2.8em;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 2.0em;
+}
+
+p {
+  font-weight: 300;
+  font-size: 1.25em;
+  line-height: 1.4
+}
+
+body {
+  padding: 5vh 10vw;
+}
+
+a {
+  color: text;
+}
+
+.content {
+  max-width: 32em;
+  margin-top: 4em;
+}
