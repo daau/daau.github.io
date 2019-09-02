@@ -35,7 +35,7 @@ canvas {
 
 .content {
   max-width: 32em;
-  margin-top: 4.5em;
+  margin-top: 3.5em;
 }
 
 .header {
@@ -54,6 +54,10 @@ canvas {
   p {
     font-size: 1.1em;
   }
+
+  .content {
+    margin-top: 4em;
+  }
 }
 
 @media only screen and (min-width: 960px) {
@@ -63,6 +67,10 @@ canvas {
 
   p {
     font-size: 1.25em;
-  }  
+  }
+
+  .content {
+    margin-top: 4.5em;
+  }
 }
 
