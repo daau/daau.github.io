@@ -10,8 +10,8 @@ h1 {
 }
 
 p {
-  font-weight: 400;
-  font-size: 1 em;
+  font-weight: 300;
+  font-size: 1.2 em;
   line-height: 1.4
 }
 
@@ -52,7 +52,7 @@ canvas {
   }
 
   p {
-    font-size: 1.1em;
+    font-size: 1.25em;
     font-weight: 300;
   }
 
@@ -71,7 +71,7 @@ canvas {
   }
 
   p {
-    font-size: 1.25em;
+    font-size: 1.3em;
     font-weight: 300;
   }
 

@@ -130,7 +130,7 @@ function createTerrain(){
 
     curves.push(new Curve(
         '#ebf6ff',
-        new Point(0, 200),
+        new Point(-10, 200),
         new Point(w, 100),
         DECAY,
         DECAY_RATE + 20,
@@ -140,7 +140,7 @@ function createTerrain(){
     
     curves.push(new Curve(
         '#d9eeff',
-        new Point(0, 250),
+        new Point(-10, 250),
         new Point(w, 150),
         DECAY,
         DECAY_RATE + 10,
@@ -151,7 +151,7 @@ function createTerrain(){
     curves.push(
     new Curve(
         '#c7e6ff',
-        new Point(0, 300),
+        new Point(-10, 300),
         new Point(w, 200),
         DECAY,
         DECAY_RATE,
